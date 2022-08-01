@@ -67,6 +67,7 @@
     <li> <a href="https://www.hackerrank.com/MNSD2"> Hackerrank </a> </li>
     <li> <a href="https://rewithme.weebly.com/"> Reverse Engineering & Binary Exploitation Blog </a> </li>
     <li> <a href="https://tryhackme.com/p/Neez"> TryHackMe (Top 1% Reached) </a> </li>
-     <li> <a href="https://github.com/Nizar1999/Blender-Projects"> Blender 3D Modeling </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Blender-Projects"> Blender 3D Modeling </a> </li>
+     <li> <a href="https://github.com/Nizar1999/Pixel-Art-Projects"> Pixel Art Projects</a> </li>
   </ul>
 </div>
