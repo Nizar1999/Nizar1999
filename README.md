@@ -12,7 +12,6 @@
 <details>
   <summary>🗃️ Projects </summary>
 <div>
-  <samp>
     <h2> 🎮 Games </h2>
 
 Name | Engine | Language
@@ -44,7 +43,6 @@ Name | Language
 [Neezbot](https://github.com/Nizar1999/Neezbot) | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white)
 [Shusseki](https://github.com/Nizar1999/Shusseki) | ![](https://img.shields.io/badge/-Java-grey?logoColor=white)
 [DigiLearn](https://github.com/Nizar1999/DigiLearn) | ![](https://img.shields.io/badge/-Java-grey?logoColor=white)
-  </samp>
 </div>
 </details>
 
