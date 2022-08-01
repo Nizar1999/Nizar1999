@@ -1,5 +1,4 @@
-![Welcome](./Assets/Welcome.gif)
-
+# Hello! I'm Nizar.
 I love developing all kinds of software but I have a sweet spot for making videogames.
 
 ## 🎮 Games
