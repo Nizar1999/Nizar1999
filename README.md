@@ -40,4 +40,16 @@ Name | Engine
 ---|---
 [Captain Clown Nose](https://github.com/Nizar1999/Captain-Clown-Nose) | ![](https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white)
 
+## 💻 Software
 
+Name | Language
+---|---
+[OmniCache](https://github.com/Nizar1999/OmniCache) | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white) ![](https://img.shields.io/badge/-Solidity-grey?logo=solidity&logoColor=white)
+[NetPrint](https://github.com/Nizar1999/NetPrint) | ![](https://img.shields.io/badge/-C++-grey?logo=python&logoColor=white)
+[Remote Keylogger](https://github.com/Nizar1999/Remote-Keylogger) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
+[Shusseki](https://github.com/Nizar1999/Shusseki) | ![](https://img.shields.io/badge/-Java-grey?logo=java&logoColor=white)
+[Neezbot](https://github.com/Nizar1999/Neezbot) | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white)
+[HexeQt](https://github.com/Nizar1999/HexeQt) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
+[DigiLearn](https://github.com/Nizar1999/DigiLearn) | ![](https://img.shields.io/badge/-Java-grey?logo=java&logoColor=white)
+[CPUINFO](https://github.com/Nizar1999/CPUINFO) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
+[ACTrainer](https://github.com/Nizar1999/ACTrainer) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
