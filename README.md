@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Assembly-grey?ogoColor=white">
   <img src="https://img.shields.io/badge/-GDScript-grey?ogoColor=white">
+  <img src="https://img.shields.io/badge/-Blueprints-grey?ogoColor=white">
 </div>
 
 <div>
