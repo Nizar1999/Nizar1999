@@ -31,7 +31,7 @@ Name | Language
 [CPUINFO](https://github.com/Nizar1999/CPUINFO) | ![](https://img.shields.io/badge/-C-grey?logo=c&logoColor=white)
 [OmniCache](https://github.com/Nizar1999/OmniCache) | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white) ![](https://img.shields.io/badge/-Solidity-grey?logo=solidity&logoColor=white)
 [Neezbot](https://github.com/Nizar1999/Neezbot) | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white)
-[Shusseki](https://github.com/Nizar1999/Shusseki) | ![](https://img.shields.io/badge/-Java-grey?logo=java&logoColor=white)
-[DigiLearn](https://github.com/Nizar1999/DigiLearn) | ![](https://img.shields.io/badge/-Java-grey?logo=java&logoColor=white)
+[Shusseki](https://github.com/Nizar1999/Shusseki) | ![](https://img.shields.io/badge/-Java-grey?logoColor=white)
+[DigiLearn](https://github.com/Nizar1999/DigiLearn) | ![](https://img.shields.io/badge/-Java-grey?logoColor=white)
 
 
