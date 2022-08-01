@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Assembly-grey?ogoColor=white">
+  <img src="https://img.shields.io/badge/-GDScript-grey?ogoColor=white">
 </div>
 
 <div>
