@@ -60,3 +60,12 @@
     <li> <a href="https://github.com/Nizar1999/DigiLearn"> Course Creation and Quiz Taking</a> </li>
   </ul>
 </div>
+
+<div>
+<h2> 🗃️ Other Endeavors </h2>
+   <ul>
+    <li> <a href="https://www.hackerrank.com/MNSD2"> Hackerrank </a> </li>
+    <li> <a href="https://rewithme.weebly.com/"> Reverse Engineering & Binary Exploitation Blog </a> </li>
+    <li> <a href="https://tryhackme.com/p/Neez"> TryHackMe (Top 1% Reached) </a> </li>
+  </ul>
+</div>
