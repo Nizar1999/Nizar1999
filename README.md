@@ -13,4 +13,4 @@ I love developing all kinds of software but I have a sweet spot for making video
 ### Exploit ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-grey?style=for-the-badge&logo=unreal-engine)
 ### CodeShip ![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=cplusplus)
 ### GlitchHop ![C++](https://img.shields.io/badge/-C++-grey?style=for-the-badge&logo=cplusplus)
-### Captain Clown Nose ![Godot](https://img.shields.io/badge/-Godot-grey?style=for-the-badge&logo=godot-engine)
+### Captain Clown Nose ![Godot](https://img.shields.io/badge/-Godot-grey?style=for-the-badge&logo=godot-engine&logoColor=grey)
