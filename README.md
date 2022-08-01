@@ -11,22 +11,22 @@
 
 <div>
   <h2> Languages </h2>
-  <img src="https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Blueprints-grey?ogoColor=white">
-  <img src="https://img.shields.io/badge/-Assembly-grey?ogoColor=white">
-  <img src="https://img.shields.io/badge/-GDScript-grey?ogoColor=white">
+  <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Blueprints-blue?ogoColor=white">
+  <img src="https://img.shields.io/badge/-Assembly-blue?ogoColor=white">
+  <img src="https://img.shields.io/badge/-GDScript-blue?ogoColor=white">
 </div>
 
 <div>
   <h2> Technologies </h2>
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white">
-  <img src="https://img.shields.io/badge/-Unity-grey?logo=unity">
-  <img src="https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-grey?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/-Perforce-grey?logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-blue?logo=unreal-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/-Unity-blue?logo=unity">
+  <img src="https://img.shields.io/badge/-Godot-blue?logo=godot-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-blue?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Perforce-blue?logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white">
 </div>
 
 <div>
@@ -35,29 +35,28 @@
     <li> <a href="https://github.com/Nizar1999/Yet-Another-Tetris-Clone"> Tetris </a> </li>
     <li> <a href="https://github.com/Nizar1999/Yet-Another-Flappy-Bird-Clone"> Flappy Bird </a> </li>
     <li> <a href="https://github.com/Nizar1999/Yet-Another-Hangman-Clone"> Hangman </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Unbeatable-TicTacToe"> TicTacToe </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Unbeatable-TicTacToe"> Unbeatable TicTacToe </a> </li>
     <li> <a href="https://github.com/Nizar1999/Yet-Another-Snake-Clone"> Snake </a> </li>
     <li> <a href="https://github.com/Nizar1999/Farming-Sim"> Farming Sim </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Manneken"> Manneken </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Expl01t"> Exploit </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Codeships"> Codeships </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Glitch-Hop"> Glitch Hop </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Captain-Clown-Nose"> Captain Clown Nose </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Manneken"> Horror Survival Game </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Expl01t"> Parkour Platformer </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Codeships"> Battleships </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Glitch-Hop"> Jump The Obstacle </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Captain-Clown-Nose"> 2D Action Platformer </a> </li>
   </ul>
 </div>
 
 <div>
 <h2> 💻 Software </h2>
    <ul>
-    <li> <a href="https://github.com/Nizar1999/NetPrint"> NetPrint </a> </li>
+    <li> <a href="https://github.com/Nizar1999/NetPrint"> Networked Printing Service </a> </li>
     <li> <a href="https://github.com/Nizar1999/Remote-Keylogger"> Remote Keylogger </a> </li>
-    <li> <a href="https://github.com/Nizar1999/ACTrainer"> ACTrainer </a> </li>
-    <li> <a href="https://github.com/Nizar1999/HexeQt"> HexeQt </a> </li>
-    <li> <a href="https://github.com/Nizar1999/CPUINFO"> CPUINFO </a> </li>
-    <li> <a href="https://github.com/Nizar1999/OmniCache"> OmniCache </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Neezbot"> Neezbot </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Codeships"> Codeships </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Shusseki"> Shusseki </a> </li>
-    <li> <a href="https://github.com/Nizar1999/DigiLearn"> DigiLearn </a> </li>
+    <li> <a href="https://github.com/Nizar1999/ACTrainer"> External Trainer </a> </li>
+    <li> <a href="https://github.com/Nizar1999/HexeQt"> File Hex Viewer </a> </li>
+    <li> <a href="https://github.com/Nizar1999/CPUINFO"> CPU information </a> </li>
+    <li> <a href="https://github.com/Nizar1999/OmniCache"> Ethereum-Based Decentralized Storage </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Neezbot"> Discord Bot </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Shusseki"> QR Code Attendance Management</a> </li>
+    <li> <a href="https://github.com/Nizar1999/DigiLearn"> Course Creation and Quiz Taking</a> </li>
   </ul>
 </div>
