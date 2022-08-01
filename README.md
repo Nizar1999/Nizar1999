@@ -1,4 +1,4 @@
-# Hello! I'm Nizar.
+# 👋 Hello! I'm Nizar.
 I love developing all kinds of software but I have a sweet spot for making videogames.
 
 ## 🎮 Games
