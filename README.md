@@ -3,8 +3,7 @@
 I love developing all kinds of software but I have a sweet spot for making videogames.
 
 ## 🎮 Games
-### 
-- Clones of popular games
+### Clones of popular games
 
 Name | Engine
 ---|---
@@ -16,25 +15,26 @@ Name | Engine
 [Snake](https://github.com/Nizar1999/Yet-Another-Snake-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
 [Farming Sim](https://github.com/Nizar1999/Farming-Sim) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
 
-- Survival Horror
+### Survival Horror
 
 Name | Engine
 ---|---
 [Manneken](https://github.com/Nizar1999/Manneken) | ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white)
-- Parkour
+
+### Parkour
 
 Name | Engine
 ---|---
 [Exploit](https://github.com/Nizar1999/Expl01t) | ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white)
 
-- Commandline
+### Commandline
 
 Name | Engine
 ---|---
 [Codeships](https://github.com/Nizar1999/Codeships) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 [Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 
-- 2D Action Platformer
+### 2D Action Platformer
 
 Name | Engine
 ---|---
