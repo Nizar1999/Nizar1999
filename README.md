@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/mohamad-nizar-daouk/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"> <a/>
   <a href="https://www.hackerrank.com/MNSD2"> <img src="https://img.shields.io/badge/-HackerRank-blue?logo=HackerRank&logoColor=white"> <a/>
   <a href="mailto:mnsd2@protonmail.com"> <img src="https://img.shields.io/badge/-Email-blue?logo=protonmail&logoColor=white"> <a/>
-<h3 align="center">Im a professional software engineer currently employed in the game development industry. </br> I love developing all kinds of software but I have a sweet spot for making videogames.</h3>
+<h3 align="center">I love developing all kinds of software but I have a sweet spot for making videogames.</h3>
 </div>
 
 <div align="center">
