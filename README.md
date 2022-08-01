@@ -53,3 +53,6 @@ Name | Language
 [DigiLearn](https://github.com/Nizar1999/DigiLearn) | ![](https://img.shields.io/badge/-Java-grey?logo=java&logoColor=white)
 [CPUINFO](https://github.com/Nizar1999/CPUINFO) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 [ACTrainer](https://github.com/Nizar1999/ACTrainer) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nizar1999)](https://github.com/anuraghazra/github-readme-stats)
+
