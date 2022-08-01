@@ -32,8 +32,9 @@
   <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white">
 </div>
 
+<h2> Projects </h2>
 <div>
-  <h2> 🎮 Games </h2>
+  <h3> 🎮 Games </h3>
   <ul>
     <li> <a href="https://github.com/Nizar1999/Manneken"> Horror Survival Game </a> </li>
     <li> <a href="https://github.com/Nizar1999/Expl01t"> Parkour Platformer </a> </li>
@@ -50,7 +51,7 @@
 </div>
 
 <div>
-<h2> 💻 Software </h2>
+<h3> 💻 Software </h3>
    <ul>
     <li> <a href="https://github.com/Nizar1999/OmniCache"> Ethereum-Based Decentralized Storage </a> </li>
     <li> <a href="https://github.com/Nizar1999/NetPrint"> Networked Printing Service </a> </li>
@@ -65,7 +66,7 @@
 </div>
 
 <div>
-<h2> 🗃️ Other Endeavors </h2>
+<h3> 🗃️ Other Endeavors </h3>
    <ul>
     <li> <a href="https://rewithme.weebly.com/"> Reverse Engineering & Binary Exploitation Blog </a> </li>
     <li> <a href="https://tryhackme.com/p/Neez"> TryHackMe (Top 1% Reached) </a> </li>
