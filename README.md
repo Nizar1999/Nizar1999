@@ -54,5 +54,5 @@ Name | Language
 [CPUINFO](https://github.com/Nizar1999/CPUINFO) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 [ACTrainer](https://github.com/Nizar1999/ACTrainer) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nizar1999)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nizar1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
