@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hey! I'm Nizar <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
-<h4 align="center">Im a professional software engineer currently employed in the game development industry. </br> I love developing all kinds of software but I have a sweet spot for making videogames.</h4>
+<h3 align="center">Im a professional software engineer currently employed in the game development industry. </br> I love developing all kinds of software but I have a sweet spot for making videogames.</h3>
 </div>
 
 <div align="center">
@@ -9,7 +9,14 @@
        alt="snake" /></a>
 </div>
 
-## 🎮 Games
+<div align="center">
+<h2 align="center"> Languages </h2>
+![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white)
+</div>
+
+<div align="center">
+<h2 align="center"> 🎮 Games </h2>
+</div>
   
 Name | Engine | Language
 ---|---|---
@@ -26,7 +33,9 @@ Name | Engine | Language
 [Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) | N/A | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 [Captain Clown Nose](https://github.com/Nizar1999/Captain-Clown-Nose) | ![](https://img.shields.io/badge/-GDScript-grey?logoColor=white) | ![](https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white)
 
-## 💻 Software
+<div align="center">
+<h2 align="center"> 💻 Software </h2>
+</div>
 
 Name | Language
 ---|---
