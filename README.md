@@ -17,7 +17,7 @@ I love developing all kinds of software but I have a sweet spot for making video
 - Parkour
   - [Exploit](https://github.com/Nizar1999/Expl01t) ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white)
 - Commandline
-  - [Codeships](https://github.com/Nizar1999/Codeships) ![](https://img.shields.io/badge/-C++-grey?logo=c++&logoColor=white)
-  - [Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) ![](https://img.shields.io/badge/-C++-grey?logo=c++&logoColor=white)
+  - [Codeships](https://github.com/Nizar1999/Codeships) ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
+  - [Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 - 2D Action Platformer
   - [Captain Clown Nose](https://github.com/Nizar1999/Captain-Clown-Nose) ![](https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white)
