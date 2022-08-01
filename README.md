@@ -22,11 +22,22 @@ Name | Engine
 ---|---
 [Manneken](https://github.com/Nizar1999/Manneken) | ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white)
 - Parkour
-  - [Exploit](https://github.com/Nizar1999/Expl01t) | ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white)
+
+Name | Engine
+---|---
+[Exploit](https://github.com/Nizar1999/Expl01t) | ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white)
+
 - Commandline
-  - [Codeships](https://github.com/Nizar1999/Codeships) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
-  - [Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
+
+Name | Engine
+---|---
+[Codeships](https://github.com/Nizar1999/Codeships) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
+[Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
+
 - 2D Action Platformer
-  - [Captain Clown Nose](https://github.com/Nizar1999/Captain-Clown-Nose) | ![](https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white)
+
+Name | Engine
+---|---
+[Captain Clown Nose](https://github.com/Nizar1999/Captain-Clown-Nose) | ![](https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white)
 
 
