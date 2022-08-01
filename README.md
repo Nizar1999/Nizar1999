@@ -3,7 +3,6 @@
 I love developing all kinds of software but I have a sweet spot for making videogames.
 
 ## 🎮 Games
-### Clones of popular games
 
 Name | Engine | Language
 ---|---|---
