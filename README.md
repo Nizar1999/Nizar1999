@@ -13,7 +13,7 @@ I love developing all kinds of software but I have a sweet spot for making video
   - [Snake](https://github.com/Nizar1999/Yet-Another-Snake-Clone) ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
   - [Farming Sim](https://github.com/Nizar1999/Farming-Sim) ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
 - Survival Horror
-  - [Manneken](https://github.com/Nizar1999/Manneken) ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine)
+  - [Manneken](https://github.com/Nizar1999/Manneken) ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white)
 - Parkour
 - Commandline
 - 2D Action Platformer
