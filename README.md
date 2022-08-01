@@ -3,7 +3,7 @@
 I love developing all kinds of software but I have a sweet spot for making videogames.
 
 ## 🎮 Games
-### Tetris ![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=unity)
+### Tetris ![Unity](https://img.shields.io/badge/-Unity-grey?logo=unity)
 ### Pong ![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=unity)
 ### Farming Sim ![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=unity)
 ### Unbeatable TicTacToe ![Unity](https://img.shields.io/badge/-Unity-grey?style=for-the-badge&logo=unity)
