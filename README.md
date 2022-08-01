@@ -9,10 +9,7 @@
        alt="snake" /></a>
 </div>
 
-<details>
-  <summary>🗃️ Projects </summary>
-<div>
-  <h2> 🎮 Games </h2>
+## 🎮 Games
   
 Name | Engine | Language
 ---|---|---
@@ -29,7 +26,7 @@ Name | Engine | Language
 [Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) | N/A | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 [Captain Clown Nose](https://github.com/Nizar1999/Captain-Clown-Nose) | ![](https://img.shields.io/badge/-GDScript-grey?logoColor=white) | ![](https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white)
 
-    <h2> 💻 Software </h2>
+## 💻 Software
 
 Name | Language
 ---|---
@@ -42,7 +39,3 @@ Name | Language
 [Neezbot](https://github.com/Nizar1999/Neezbot) | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white)
 [Shusseki](https://github.com/Nizar1999/Shusseki) | ![](https://img.shields.io/badge/-Java-grey?logoColor=white)
 [DigiLearn](https://github.com/Nizar1999/DigiLearn) | ![](https://img.shields.io/badge/-Java-grey?logoColor=white)
-</div>
-</details>
-
-
