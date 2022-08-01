@@ -13,7 +13,6 @@
   <summary>🗃️ Projects </summary>
 <div>
   <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
     ## 🎮 Games
 
 Name | Engine | Language
