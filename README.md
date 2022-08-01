@@ -3,7 +3,7 @@
 I love developing all kinds of software but I have a sweet spot for making videogames.
 
 ## 🎮 Games
-### Unity <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width = 5%; height=5% />
+### Unity <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width = 1%; height=1% />
 - Tetris ![Unity]()
 - Pong ![Unity](https://img.shields.io/badge/-Unity-grey?logo=unity)
 - Farming Sim ![Unity](https://img.shields.io/badge/-Unity-grey?logo=unity)
