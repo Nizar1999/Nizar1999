@@ -13,7 +13,7 @@
   <summary>🗃️ Projects </summary>
 <div>
   <samp>
-    ## 🎮 Games
+    <h2> 🎮 Games </h2>
 
 Name | Engine | Language
 ---|---|---
@@ -30,7 +30,7 @@ Name | Engine | Language
 [Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) | N/A | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 [Captain Clown Nose](https://github.com/Nizar1999/Captain-Clown-Nose) | ![](https://img.shields.io/badge/-GDScript-grey?logoColor=white) | ![](https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white)
 
-## 💻 Software
+    <h2> 💻 Software </h2>
 
 Name | Language
 ---|---
