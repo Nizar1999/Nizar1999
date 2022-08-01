@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hey! I'm Nizar <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
-<h3 align="center">Im a professional software engineer currently employed in the game development industry. </br> I love developing all kinds of software but I have a sweet spot for making videogames.</h3>
+  <h1 align="center">Hey! I'm Nizar <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
+  <h3 align="center">Im a professional software engineer currently employed in the game development industry. </br> I love developing all kinds of software but I have a sweet spot for making videogames.</h3>
 </div>
 
 <div align="center">
@@ -9,42 +9,53 @@
        alt="snake" /></a>
 </div>
 
-<div align="center">
-<h2 align="center"> Languages </h2>
-![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white) ![](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white)
+<div>
+  <h2> Languages </h2>
+  <img src="https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Assembly-grey?ogoColor=white">
 </div>
 
-<div align="center">
-<h2 align="center"> 🎮 Games </h2>
-</div>
-  
-Name | Engine | Language
----|---|---
-[Tetris](https://github.com/Nizar1999/Yet-Another-Tetris-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white)
-[Flappy Bird](https://github.com/Nizar1999/Yet-Another-Flappy-Bird-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white)
-[Pong](https://github.com/Nizar1999/Yet-Another-Pong-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white)
-[Hangman](https://github.com/Nizar1999/Yet-Another-Hangman-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white)
-[TicTacToe](https://github.com/Nizar1999/Unbeatable-TicTacToe) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white)
-[Snake](https://github.com/Nizar1999/Yet-Another-Snake-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white)
-[Farming Sim](https://github.com/Nizar1999/Farming-Sim) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp&logoColor=white)
-[Manneken](https://github.com/Nizar1999/Manneken) | ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white) | ![](https://img.shields.io/badge/-Blueprints-grey?logoColor=white)
-[Exploit](https://github.com/Nizar1999/Expl01t) | ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white) | ![](https://img.shields.io/badge/-Blueprints-grey?logoColor=white)
-[Codeships](https://github.com/Nizar1999/Codeships) | N/A | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
-[Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) | N/A | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
-[Captain Clown Nose](https://github.com/Nizar1999/Captain-Clown-Nose) | ![](https://img.shields.io/badge/-GDScript-grey?logoColor=white) | ![](https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white)
-
-<div align="center">
-<h2 align="center"> 💻 Software </h2>
+<div>
+  <h2> Technologies </h2>
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/-Unity-grey?logo=unity">
+  <img src="https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-grey?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Perforce-grey?logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white">
 </div>
 
-Name | Language
----|---
-[NetPrint](https://github.com/Nizar1999/NetPrint) | ![](https://img.shields.io/badge/-C++-grey?logo=Cplusplus&logoColor=white)
-[Remote Keylogger](https://github.com/Nizar1999/Remote-Keylogger) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
-[ACTrainer](https://github.com/Nizar1999/ACTrainer) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
-[HexeQt](https://github.com/Nizar1999/HexeQt) | ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
-[CPUINFO](https://github.com/Nizar1999/CPUINFO) | ![](https://img.shields.io/badge/-C-grey?logo=c&logoColor=white)
-[OmniCache](https://github.com/Nizar1999/OmniCache) | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white) ![](https://img.shields.io/badge/-Solidity-grey?logo=solidity&logoColor=white)
-[Neezbot](https://github.com/Nizar1999/Neezbot) | ![](https://img.shields.io/badge/-Python-grey?logo=python&logoColor=white)
-[Shusseki](https://github.com/Nizar1999/Shusseki) | ![](https://img.shields.io/badge/-Java-grey?logoColor=white)
-[DigiLearn](https://github.com/Nizar1999/DigiLearn) | ![](https://img.shields.io/badge/-Java-grey?logoColor=white)
+<div>
+  <h2> 🎮 Games </h2>
+  <ul>
+    <li> <a href="https://github.com/Nizar1999/Yet-Another-Tetris-Clone"> Tetris </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Yet-Another-Flappy-Bird-Clone"> Flappy Bird </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Yet-Another-Hangman-Clone"> Hangman </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Unbeatable-TicTacToe"> TicTacToe </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Yet-Another-Snake-Clone"> Snake </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Farming-Sim"> Farming Sim </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Manneken"> Manneken </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Expl01t"> Exploit </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Codeships"> Codeships </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Glitch-Hop"> Glitch Hop </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Captain-Clown-Nose"> Captain Clown Nose </a> </li>
+  </ul>
+</div>
+
+<div>
+<h2> 💻 Software </h2>
+   <ul>
+    <li> <a href="https://github.com/Nizar1999/NetPrint"> NetPrint </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Remote-Keylogger"> Remote Keylogger </a> </li>
+    <li> <a href="https://github.com/Nizar1999/ACTrainer"> ACTrainer </a> </li>
+    <li> <a href="https://github.com/Nizar1999/HexeQt"> HexeQt </a> </li>
+    <li> <a href="https://github.com/Nizar1999/CPUINFO"> CPUINFO </a> </li>
+    <li> <a href="https://github.com/Nizar1999/OmniCache"> OmniCache </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Neezbot"> Neezbot </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Codeships"> Codeships </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Shusseki"> Shusseki </a> </li>
+    <li> <a href="https://github.com/Nizar1999/DigiLearn"> DigiLearn </a> </li>
+  </ul>
+</div>
