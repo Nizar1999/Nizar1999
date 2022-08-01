@@ -10,7 +10,7 @@ I love developing all kinds of software but I have a sweet spot for making video
 - Unbeatable TicTacToe
 - Flappy Bird
 - Hangman
-- Manneken ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine)
+- Manneken
 - Exploit
 - CodeShip
 - GlitchHop
