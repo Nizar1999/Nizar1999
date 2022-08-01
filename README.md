@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/-Godot-blue?logo=godot-engine&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-blue?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Perforce-blue?logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white">
 </div>
 
 <h2> Projects </h2>
