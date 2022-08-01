@@ -5,15 +5,15 @@ I love developing all kinds of software but I have a sweet spot for making video
 ## 🎮 Games
 ### Clones of popular games
 
-Name | Engine
----|---
-[Tetris](https://github.com/Nizar1999/Yet-Another-Tetris-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
-[Flappy Bird](https://github.com/Nizar1999/Yet-Another-Flappy-Bird-Clone) | ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white)
-[Pong](https://github.com/Nizar1999/Yet-Another-Pong-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
-[Hangman](https://github.com/Nizar1999/Yet-Another-Hangman-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
-[TicTacToe](https://github.com/Nizar1999/Unbeatable-TicTacToe) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
-[Snake](https://github.com/Nizar1999/Yet-Another-Snake-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
-[Farming Sim](https://github.com/Nizar1999/Farming-Sim) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity)
+Name | Engine | Language
+---|---|---
+[Tetris](https://github.com/Nizar1999/Yet-Another-Tetris-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp)
+[Flappy Bird](https://github.com/Nizar1999/Yet-Another-Flappy-Bird-Clone) | ![](https://img.shields.io/badge/-Unreal%20Engine-grey?logo=unreal-engine&logoColor=white) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp)
+[Pong](https://github.com/Nizar1999/Yet-Another-Pong-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp)
+[Hangman](https://github.com/Nizar1999/Yet-Another-Hangman-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp)
+[TicTacToe](https://github.com/Nizar1999/Unbeatable-TicTacToe) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp)
+[Snake](https://github.com/Nizar1999/Yet-Another-Snake-Clone) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp)
+[Farming Sim](https://github.com/Nizar1999/Farming-Sim) | ![](https://img.shields.io/badge/-Unity-grey?logo=unity) | ![](https://img.shields.io/badge/-C%23-grey?logo=csharp)
 
 ### Survival Horror
 
