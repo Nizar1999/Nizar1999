@@ -33,16 +33,16 @@
   <h2> 🎮 Games </h2>
   <ul>
     <li> <a href="https://github.com/Nizar1999/Yet-Another-Tetris-Clone"> Tetris </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Yet-Another-Flappy-Bird-Clone"> Flappy Bird </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Yet-Another-Hangman-Clone"> Hangman </a> </li>
     <li> <a href="https://github.com/Nizar1999/Unbeatable-TicTacToe"> Unbeatable TicTacToe </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Yet-Another-Snake-Clone"> Snake </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Farming-Sim"> Farming Sim </a> </li>
     <li> <a href="https://github.com/Nizar1999/Manneken"> Horror Survival Game </a> </li>
     <li> <a href="https://github.com/Nizar1999/Expl01t"> Parkour Platformer </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Codeships"> Battleships </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Glitch-Hop"> Jump The Obstacle </a> </li>
     <li> <a href="https://github.com/Nizar1999/Captain-Clown-Nose"> 2D Action Platformer </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Farming-Sim"> Farming Sim </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Codeships"> Battleships </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Yet-Another-Flappy-Bird-Clone"> Flappy Bird </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Yet-Another-Hangman-Clone"> Hangman </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Yet-Another-Snake-Clone"> Snake </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Glitch-Hop"> Jump The Obstacle </a> </li>
   </ul>
 </div>
 
