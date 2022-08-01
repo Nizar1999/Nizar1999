@@ -21,3 +21,7 @@ I love developing all kinds of software but I have a sweet spot for making video
   - [Glitch Hop](https://github.com/Nizar1999/Glitch-Hop) ![](https://img.shields.io/badge/-C++-grey?logo=cplusplus&logoColor=white)
 - 2D Action Platformer
   - [Captain Clown Nose](https://github.com/Nizar1999/Captain-Clown-Nose) ![](https://img.shields.io/badge/-Godot-grey?logo=godot-engine&logoColor=white)
+Item | Price | # In stock
+---|---|---
+Juicy Apples | 1.99 | 739
+Bananas | 1.89 | 6
