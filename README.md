@@ -49,12 +49,12 @@
 <div>
 <h2> 💻 Software </h2>
    <ul>
+    <li> <a href="https://github.com/Nizar1999/OmniCache"> Ethereum-Based Decentralized Storage </a> </li>
     <li> <a href="https://github.com/Nizar1999/NetPrint"> Networked Printing Service </a> </li>
     <li> <a href="https://github.com/Nizar1999/Remote-Keylogger"> Remote Keylogger </a> </li>
     <li> <a href="https://github.com/Nizar1999/ACTrainer"> External Trainer </a> </li>
     <li> <a href="https://github.com/Nizar1999/HexeQt"> File Hex Viewer </a> </li>
     <li> <a href="https://github.com/Nizar1999/CPUINFO"> CPU information </a> </li>
-    <li> <a href="https://github.com/Nizar1999/OmniCache"> Ethereum-Based Decentralized Storage </a> </li>
     <li> <a href="https://github.com/Nizar1999/Neezbot"> Discord Bot </a> </li>
     <li> <a href="https://github.com/Nizar1999/Shusseki"> QR Code Attendance Management</a> </li>
     <li> <a href="https://github.com/Nizar1999/DigiLearn"> Course Creation and Quiz Taking</a> </li>
