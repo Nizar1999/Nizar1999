@@ -55,6 +55,7 @@
 <h3> 💻 Software </h3>
    <ul>
     <li> <a href="https://github.com/Nizar1999/OmniCache"> Ethereum-Based Decentralized Storage </a> </li>
+    <li> <a href="https://github.com/Nizar1999/Pathfinding-Algorithms"> Pathfinding Algorithms </a> </li>
     <li> <a href="https://github.com/Nizar1999/NetPrint"> Networked Printing Service </a> </li>
     <li> <a href="https://github.com/Nizar1999/Remote-Keylogger"> Remote Keylogger </a> </li>
     <li> <a href="https://github.com/Nizar1999/ACTrainer"> External Trainer </a> </li>
