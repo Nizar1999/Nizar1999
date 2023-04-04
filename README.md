@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hey! I'm Nizar <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
   <a href="https://www.linkedin.com/in/mohamad-nizar-daouk/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"> <a/>
-  <a href="https://www.hackerrank.com/MNSD2"> <img src="https://img.shields.io/badge/-HackerRank-blue?logo=HackerRank&logoColor=white"> <a/>
+  <a href="https://leetcode.com/mnsd2/"> <img src="https://img.shields.io/badge/-Leetcode-blue?logo=leetcode&logoColor=white"> <a/>
   <a href="mailto:mnsd2@protonmail.com"> <img src="https://img.shields.io/badge/-Email-blue?logo=protonmail&logoColor=white"> <a/>
 <h4 align="center">I love developing all kinds of software but I have a sweet spot for making videogames.</h4>
 </div>
@@ -16,6 +16,7 @@
   <h2> Languages </h2>
   <img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/-C%23-blue?logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-blue?logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Blueprints-blue?ogoColor=white">
   <img src="https://img.shields.io/badge/-Assembly-blue?ogoColor=white">
