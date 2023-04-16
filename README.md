@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/mohamad-nizar-daouk/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"> <a/>
   <a href="https://leetcode.com/mnsd2/"> <img src="https://img.shields.io/badge/-Leetcode-blue?logo=leetcode&logoColor=white"> <a/>
   <a href="mailto:mnsd2@protonmail.com"> <img src="https://img.shields.io/badge/-Email-blue?logo=protonmail&logoColor=white"> <a/>
-<h4 align="center">I love developing all kinds of software but I have a sweet spot for making videogames.</h4>
+
 </div>
 
 <div align="center">
