@@ -1,7 +1,6 @@
 <div align="center">
   <h1 align="center">Hey! I'm Nizar <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h1>
   <a href="https://www.linkedin.com/in/mohamad-nizar-daouk/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"> <a/>
-  <a href="https://leetcode.com/mnsd2/"> <img src="https://img.shields.io/badge/-Leetcode-blue?logo=leetcode&logoColor=white"> <a/>
   <a href="mailto:mnsd2@protonmail.com"> <img src="https://img.shields.io/badge/-Email-blue?logo=protonmail&logoColor=white"> <a/>
 
 </div>
@@ -25,13 +24,14 @@
 
 <div>
   <h2> Technologies </h2>
+  <img src="https://img.shields.io/badge/-OpenGL-blue?logo=openGL&logoColor=white">
+  <img src="https://img.shields.io/badge/-SDL-blue?logo=sdl&logoColor=white">
+  <img src="https://img.shields.io/badge/-ImGui-blue?logo=ImGui&logoColor=white">
   <img src="https://img.shields.io/badge/-Unreal%20Engine-blue?logo=unreal-engine&logoColor=white">
   <img src="https://img.shields.io/badge/-Unity-blue?logo=unity">
   <img src="https://img.shields.io/badge/-Godot-blue?logo=godot-engine&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-blue?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Perforce-blue?logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/-Windows-blue?logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/-Linux-blue?logo=linux&logoColor=white">
 </div>
 
 <h2> Projects </h2>
@@ -55,8 +55,9 @@
 <div>
 <h3> 💻 Software </h3>
    <ul>
+    <li> <a href="https://github.com/Nizar1999/SolarSystemSimulation"> Solar System Simulation (OpenGL + ImGUI) </a> </li>
     <li> <a href="https://github.com/Nizar1999/OmniCache"> Ethereum-Based Decentralized Storage </a> </li>
-    <li> <a href="https://github.com/Nizar1999/Pathfinding-Algorithms"> Pathfinding Algorithms Visualization</a> </li>
+    <li> <a href="https://github.com/Nizar1999/Pathfinding-Algorithms"> Pathfinding Algorithms Visualization (SDL) </a> </li>
     <li> <a href="https://github.com/Nizar1999/Genetic-Guessing"> Genetic Programming</a> </li>
     <li> <a href="https://github.com/Nizar1999/NetPrint"> Networked Printing Service </a> </li>
     <li> <a href="https://github.com/Nizar1999/Remote-Keylogger"> Remote Keylogger </a> </li>
@@ -73,7 +74,7 @@
 <h3> 🗃️ Other Endeavors </h3>
    <ul>
     <li> <a href="https://rewithme.weebly.com/"> Reverse Engineering & Binary Exploitation Blog </a> </li>
-    <li> <a href="https://tryhackme.com/p/Neez"> TryHackMe (Top 1% Reached) </a> </li>
+    <li> <a href="https://tryhackme.com/p/Neez"> TryHackMe </a> </li>
     <li> <a href="https://github.com/Nizar1999/Blender-Projects"> Blender 3D Modeling </a> </li>
     <li> <a href="https://github.com/Nizar1999/Pixel-Art-Projects"> Pixel Art </a> </li>
   </ul>
