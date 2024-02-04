@@ -25,7 +25,6 @@
 <div>
   <h2> Technologies </h2>
   <img src="https://img.shields.io/badge/-OpenGL-blue?logo=openGL&logoColor=white">
-  <img src="https://img.shields.io/badge/-SDL-blue?logo=sdl&logoColor=white">
   <img src="https://img.shields.io/badge/-ImGui-blue?logo=ImGui&logoColor=white">
   <img src="https://img.shields.io/badge/-Unreal%20Engine-blue?logo=unreal-engine&logoColor=white">
   <img src="https://img.shields.io/badge/-Unity-blue?logo=unity">
